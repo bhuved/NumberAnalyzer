@@ -12,3 +12,4 @@ C:\Users\vedaa\source\repos\NumberAnalyzer\obj\Debug\net8.0\refint\NumberAnalyze
 C:\Users\vedaa\source\repos\NumberAnalyzer\obj\Debug\net8.0\NumberAnalyzer.pdb
 C:\Users\vedaa\source\repos\NumberAnalyzer\obj\Debug\net8.0\NumberAnalyzer.genruntimeconfig.cache
 C:\Users\vedaa\source\repos\NumberAnalyzer\obj\Debug\net8.0\ref\NumberAnalyzer.dll
+C:\Users\vedaa\source\repos\NumberAnalyzer\obj\Debug\net8.0\NumberAnalyzer.sourcelink.json
